@@ -23,14 +23,13 @@ Before running the application, ensure you have the following installed:
 ## 🔧 Installation
 1. **Clone the repository:**
 ```bash
-git clone https://github.com
+git clone https://github.com/aiedwardyi/ibm-project-emotion-detector
 cd emotion-detector
 ```
 
 2. **Install dependencies:**
 ```bash
-git clone https://github.com/aiedwardyi/ibm-project-emotion-detector
-cd emotion-detector
+pip install -r requirements.txt
 ```
 
 3. **Run the application:**
