@@ -17,14 +17,14 @@ An AI-powered web application that analyzes text to detect emotional nuances suc
 ## 📋 Prerequisites
 Before running the application, ensure you have the following installed:
 - Python 3.x
+- `requests` library (`pip install requests`)
 - Flask (`pip install flask`)
-- IBM Watson NLP library
 
 ## 🔧 Installation
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/aiedwardyi/ibm-project-emotion-detector
-cd emotion-detector
+git clone https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git
+cd oaqjp-final-project-emb-ai
 ```
 
 2. **Install dependencies:**
